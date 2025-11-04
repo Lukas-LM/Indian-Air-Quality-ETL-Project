@@ -6,8 +6,8 @@ INFO: As I mentioned the important part is the ETL-Process, there is a gap in th
 
 ## Project Overview
 - **Type**: Data Analysis with Python
-- **Datasets**: Air Quality Data in India (2015 - 2020) from Kaggle/
-                AQI Data of India (2021-2023) from Kaggle/
+- **Datasets**: Air Quality Data in India (2015 - 2020) from Kaggle/     
+                AQI Data of India (2021-2023) from Kaggle/     
                 bigquery-public-data.openaq.global_air_quality from BigQuery
 - **Language**: Python
 - **Libraries**: Pandas, NumPy
@@ -48,7 +48,6 @@ In 2021 the value is 2132 as highest and the lowest in 2023 with 1909,97
 README.md
 LICENSE
 Indian-Air-Quality/
-|
 │
 ├── Dashboard/
 │   ├── Analyzing_Screenshots/
