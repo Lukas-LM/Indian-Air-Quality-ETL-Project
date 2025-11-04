@@ -2,7 +2,8 @@
 This project is a Data Analyst Workflow from extracting Data of multiple sources to analyse the content.   
 The goal is to extract, transform and load data. The Power BI Dashboard and the Analysis is to complete the Workflow, but remains in the background.   
 The project is about pollutants in the Air to analyse the Air Quality. The decision for Carbon monoxide and India was made through SQL queries using BigQuery.   
-INFO: As I mentioned the important part is the ETL-Process, there is a gap in the data from 07/2020 to 01/2021 and the two data source could have a different conversion system what explain the fast raise from 2020 to 2021   
+INFO: As I mentioned the important part is the ETL-Process, there is a gap in the data from 07/2020 to 01/2021 and the two data sources could have a different conversion system what explain the fast raise in the same time period.       
+Nevertheless I finished the project with the Air Quality data because of it's learning effect
 
 ## Project Overview
 - **Type**: Data Analysis with Python   
