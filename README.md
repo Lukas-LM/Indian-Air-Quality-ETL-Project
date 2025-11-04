@@ -46,6 +46,7 @@ The highest value from 2015 to 2020 is two times higher than the lowest value ->
 In 2021 the value is 2132 as highest and the lowest in 2023 with 1909,97    
 
 ## Structure
+requirements.txt   
 README.md       
 LICENSE      
 Indian-Air-Quality/       
