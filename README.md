@@ -44,6 +44,25 @@ From 2021 to 2023 the CO in the Air is lowering
 The highest value from 2015 to 2020 is two times higher than the lowest value -> 163,56 and 349,67
 In 2021 the value is 2132 as highest and the lowest in 2023 with 1909,97
 
+## Structure
+README.md
+LICENSE
+Indian-Air-Quality/
+│
+├── Dashboard/
+│   ├── Analyzing_Screenshots/
+│   │   ├── Dashboard_from_2015_to_2020.png
+│   │   └── Dashboard_from_2021_to_2023.png
+│   └── Indian_Air_Quality_Dashboard.pdf
+│
+├── Getting_Data/
+│   ├── Python_Scripts/
+│   │   ├── cleaning_script.py
+│   │   └── india_air_quality_etl.py
+│   └── SQL_Queries/
+│       ├── Country_with_highest_amount_of_CO.png
+│       └── Highest_amount_of_pollutant.png
+
 ## My path
 I learned more about Pandas and the work with multiple data and data of other sources. I learned something about licenses and Use Policy. 
 For the first time I used multiple sources and datasets. Also the complete ETL-Process was my first time.
