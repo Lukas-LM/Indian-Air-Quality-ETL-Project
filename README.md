@@ -6,8 +6,8 @@ INFO: As I mentioned the important part is the ETL-Process, there is a gap in th
 
 ## Project Overview
 - **Type**: Data Analysis with Python
-- **Datasets**: Air Quality Data in India (2015 - 2020) from Kaggle/     
-                AQI Data of India (2021-2023) from Kaggle/     
+- **Datasets**: Air Quality Data in India (2015 - 2020) from Kaggle     
+                AQI Data of India (2021-2023) from Kaggle     
                 bigquery-public-data.openaq.global_air_quality from BigQuery
 - **Language**: Python
 - **Libraries**: Pandas, NumPy
@@ -49,19 +49,19 @@ README.md
 LICENSE
 Indian-Air-Quality/
 │
-├── Dashboard/
-│   ├── Analyzing_Screenshots/
-│   │   ├── Dashboard_from_2015_to_2020.png
-│   │   └── Dashboard_from_2021_to_2023.png
-│   └── Indian_Air_Quality_Dashboard.pdf
+├── Dashboard/         
+│   ├── Analyzing_Screenshots/        
+│   │   ├── Dashboard_from_2015_to_2020.png      
+│   │   └── Dashboard_from_2021_to_2023.png     
+│   └── Indian_Air_Quality_Dashboard.pdf    
 │
-├── Getting_Data/
-│   ├── Python_Scripts/
-│   │   ├── cleaning_script.py
-│   │   └── india_air_quality_etl.py
-│   └── SQL_Queries/
-│       ├── Country_with_highest_amount_of_CO.png
-│       └── Highest_amount_of_pollutant.png
+├── Getting_Data/    
+│   ├── Python_Scripts/     
+│   │   ├── cleaning_script.py    
+│   │   └── india_air_quality_etl.py    
+│   └── SQL_Queries/    
+│       ├── Country_with_highest_amount_of_CO.png    
+│       └── Highest_amount_of_pollutant.png     
 
 ## My path
 I learned more about Pandas and the work with multiple data and data of other sources. I learned something about licenses and Use Policy. 
